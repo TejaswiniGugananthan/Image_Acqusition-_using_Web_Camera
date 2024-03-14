@@ -30,9 +30,11 @@ End the program and close the output video window by pressing 'q'.
 ## Program:
 
  Developed By: G.TEJASWINI
+ 
  Register No: 212222230157
+ 
 
-```python:
+```python
 i) Write the frame as JPG file
 
 import cv2
@@ -102,12 +104,6 @@ while True:
         break
 cap.release()
 cv2.destroyAllWindows()
-
-
-
-
-
-
 
 ```
 ## Output
